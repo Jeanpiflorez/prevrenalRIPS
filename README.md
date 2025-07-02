@@ -1,2 +1,4 @@
-# prevrenalRIPS
-Sistema de Gestión RIPS para IPS  Esta aplicación está diseñada para ayudar a las IPS a organizar y preparar de forma eficiente los documentos necesarios para el envío de RIPS al Ministerio de Salud. El objetivo principal es reducir el desorden y la complejidad que surge al manejar altos volúmenes de facturación
+Sistema de Gestión RIPS para IPS
+
+Esta aplicación está diseñada para ayudar a las IPS a organizar y preparar de forma eficiente los documentos necesarios para el envío de RIPS al Ministerio de Salud. El objetivo principal es reducir el desorden y la complejidad que surge al manejar altos volúmenes de facturación, especialmente cuando los archivos están dispersos entre formatos como JSON, XML o Excel.
+El sistema permite centralizar toda la documentación generada por distintos sistemas (como facturadores electrónicos y software como NESYS), combinándola en una sola carpeta, lista para ser validada y enviada. Esto ahorra tiempo, reduce errores y mejora el cumplimiento normativo.
